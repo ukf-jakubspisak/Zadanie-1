@@ -1,2 +1,3 @@
 Počítačová hra s využitím virtual engine
 "anotácia záverečnej práce"
+Rok obhajoby: 2022
