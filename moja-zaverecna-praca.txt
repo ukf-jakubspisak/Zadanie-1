@@ -1,1 +1,2 @@
 Počítačová hra s využitím virtual engine
+"anotácia záverečnej práce"
